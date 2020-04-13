@@ -1,0 +1,59 @@
+2020-04-11 17:44:59,776 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-04-11 17:44:59,782 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-04-11 17:44:59,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-04-11 17:44:59,789 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-04-11 17:44:59,790 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/durga%20prasad/Downloads/cucumber%20files/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-04-11 17:45:00,169 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-04-11 17:45:00,170 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-04-11 17:45:00,171 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-04-11 17:45:00,172 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-04-11 17:45:00,172 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/durga%20prasad/Downloads/cucumber%20files/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-04-11 17:45:00,254 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-04-11 17:45:00,254 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-04-11 17:45:00,255 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-04-11 17:45:00,256 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-04-11 17:45:00,256 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/durga%20prasad/Downloads/cucumber%20files/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-04-11 17:45:00,309 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-04-11 17:45:00,311 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-04-11 17:45:00,312 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-04-11 17:45:00,312 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-04-11 17:45:00,313 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/durga%20prasad/Downloads/cucumber%20files/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-04-11 17:45:03,319  INFO [main] Criticalclass:13 - you are at home page
+2020-04-11 17:45:05,423  INFO [main] Criticalclass:13 - you are in registrationpage
+2020-04-11 17:45:11,109  INFO [main] Criticalclass:13 - successfully entered the detailes
+2020-04-11 17:45:15,075 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-04-11 17:45:15,076 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-04-11 17:45:15,078 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-04-11 17:45:15,079 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-04-11 17:45:15,080 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/durga%20prasad/Downloads/cucumber%20files/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-04-11 17:45:15,164 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-04-11 17:45:15,165 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-04-11 17:45:15,167 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-04-11 17:45:15,170 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-04-11 17:45:15,171 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/durga%20prasad/Downloads/cucumber%20files/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-04-11 17:45:17,431  INFO [main] Criticalclass:13 - login is openned now
+2020-04-11 17:45:18,210  INFO [main] Criticalclass:13 - email given
+2020-04-11 17:45:18,951  INFO [main] Criticalclass:13 - password given
+2020-04-11 17:45:22,325  INFO [main] Criticalclass:13 - hey u loggedin here
+2020-04-11 17:45:25,677 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-04-11 17:45:25,679 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-04-11 17:45:25,679 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-04-11 17:45:25,679 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-04-11 17:45:25,679 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/durga%20prasad/Downloads/cucumber%20files/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-04-11 17:45:25,715 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-04-11 17:45:25,717 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-04-11 17:45:25,717 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-04-11 17:45:25,718 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-04-11 17:45:25,718 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/durga%20prasad/Downloads/cucumber%20files/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-04-11 17:45:28,448  INFO [main] Criticalclass:13 - successfully search the product
+2020-04-11 17:45:31,872  INFO [main] Criticalclass:13 - product added to cart
+2020-04-11 17:45:31,881 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-04-11 17:45:31,882 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-04-11 17:45:31,883 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-04-11 17:45:31,884 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-04-11 17:45:31,884 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/durga%20prasad/Downloads/cucumber%20files/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-04-11 17:45:31,935 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-04-11 17:45:31,936 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-04-11 17:45:31,936 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-04-11 17:45:31,937 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-04-11 17:45:31,938 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/durga%20prasad/Downloads/cucumber%20files/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
